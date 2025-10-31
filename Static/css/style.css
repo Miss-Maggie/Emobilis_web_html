@@ -1,0 +1,43 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: limegreen;
+    overflow: hidden;
+
+}
+li{
+    float: left;
+    text-align: center;
+}
+li a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-size: 12px;
+
+}
+li a:hover{
+    background-color: black;
+}
+
+.cars{
+    color: firebrick;
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 20px;
+    font-family: "Arial Rounded MT Bold";
+    border: 2px dotted black;
+    text-align: center;
+}
+
+.fruits{
+    color: blueviolet;
+    background-color: beige;
+    padding: 15px;
+    margin: 15px;
+    border: 3px solid;
+    text-align: center;
+}
