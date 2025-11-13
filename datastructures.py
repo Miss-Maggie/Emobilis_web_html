@@ -27,6 +27,7 @@ print(majina)
 
 
 #dictionary datastructures
-staff={"Name:" "Magdaline", "Age:" "25", "Gender:" "Female"}
+staff={"Name": "Magdaline", "Age": "25", "Gender": "Female"}
 print(staff)
-print(f"staff name is {"Name"}")
+print(f"staff name is {staff['Name']}")
+
